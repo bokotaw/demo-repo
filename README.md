@@ -8,4 +8,4 @@ Some description on subheader.
 
 ## Local Development
 
-1. Open index.html in your browser.
+1. Open index.html in your browser and confirm a push up alert.
